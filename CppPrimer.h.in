@@ -5,7 +5,6 @@
 
 #include <iostream>
 
-#define PROJECT_SOURCE_DIR "D:/Todo/CppPrimer"
-
+#define PROJECT_SOURCE_DIR "@PROJECT_SOURCE_DIR@"
 
 // TODO: 在此处引用程序需要的其他标头。

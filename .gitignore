@@ -1,0 +1,72 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/VSWorkspaceState.json
+<<<<<<< HEAD
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/CppPrimer/v16/ipch/AutoPCH/e4d7a9665ac9414/MAIN.ipch
+/.vs/CppPrimer/v16/ipch/AutoPCH/820ab917e88cd83a/CPPPRIMER.ipch
+/.vs/CppPrimer/v16/ipch/AutoPCH/7716b176a633db61/CPPPRIMER.ipch
+/.vs/CppPrimer/v16/ipch/AutoPCH/5100c66db15e9829/CPPPRIMER.ipch
+/.vs/CppPrimer/v16/ipch/AutoPCH/138f17dc30c56f3a/MAIN.ipch
+/.vs/CppPrimer/v16/Browse.VC.opendb
+/.vs/CppPrimer/v16/Browse.VC.db-wal
+/.vs/CppPrimer/v16/Browse.VC.db-shm
+/.vs/CppPrimer/v16/Browse.VC.db
+/.vs/CppPrimer/v16/.suo
+/.vs/cmake.db
+/.vs/CMake Overview
+/out/build/x64-Debug (默认值)/VSInheritEnvironments.txt
+/out/build/x64-Debug (默认值)/Testing/Temporary/LastTest.log
+/out/build/x64-Debug (默认值)/SalesItem.pdb
+/out/build/x64-Debug (默认值)/SalesItem.ilk
+/out/build/x64-Debug (默认值)/SalesItem.exe
+/out/build/x64-Debug (默认值)/rules.ninja
+/out/build/x64-Debug (默认值)/CppPrimer.pdb
+/out/build/x64-Debug (默认值)/CppPrimer.ilk
+/out/build/x64-Debug (默认值)/CppPrimer.exe
+/out/build/x64-Debug (默认值)/cmake_install.cmake
+/out/build/x64-Debug (默认值)/CMakeFiles/TargetDirectories.txt
+/out/build/x64-Debug (默认值)/CMakeFiles/ShowIncludes/main.obj
+/out/build/x64-Debug (默认值)/CMakeFiles/ShowIncludes/main.c
+/out/build/x64-Debug (默认值)/CMakeFiles/ShowIncludes/foo.h
+/out/build/x64-Debug (默认值)/CMakeFiles/SalesItem.dir/vc140.pdb
+/out/build/x64-Debug (默认值)/CMakeFiles/SalesItem.dir/SalesItem/main.cpp.obj
+/out/build/x64-Debug (默认值)/CMakeFiles/SalesItem.dir/manifest.res
+/out/build/x64-Debug (默认值)/CMakeFiles/SalesItem.dir/manifest.rc
+/out/build/x64-Debug (默认值)/CMakeFiles/SalesItem.dir/intermediate.manifest
+/out/build/x64-Debug (默认值)/CMakeFiles/SalesItem.dir/embed.manifest
+/out/build/x64-Debug (默认值)/CMakeFiles/CppPrimer.dir/vc140.pdb
+/out/build/x64-Debug (默认值)/CMakeFiles/CppPrimer.dir/manifest.res
+/out/build/x64-Debug (默认值)/CMakeFiles/CppPrimer.dir/manifest.rc
+/out/build/x64-Debug (默认值)/CMakeFiles/CppPrimer.dir/intermediate.manifest
+/out/build/x64-Debug (默认值)/CMakeFiles/CppPrimer.dir/embed.manifest
+/out/build/x64-Debug (默认值)/CMakeFiles/CppPrimer.dir/CppPrimer.cpp.obj
+/out/build/x64-Debug (默认值)/CMakeFiles/CMakeOutput.log
+/out/build/x64-Debug (默认值)/CMakeFiles/cmake.check_cache
+/out/build/x64-Debug (默认值)/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.obj
+/out/build/x64-Debug (默认值)/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe
+/out/build/x64-Debug (默认值)/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+/out/build/x64-Debug (默认值)/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdC/CMakeCCompilerId.obj
+/out/build/x64-Debug (默认值)/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdC/CMakeCCompilerId.exe
+/out/build/x64-Debug (默认值)/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdC/CMakeCCompilerId.c
+/out/build/x64-Debug (默认值)/CMakeFiles/3.17.20032601-MSVC_2/CMakeSystem.cmake
+/out/build/x64-Debug (默认值)/CMakeFiles/3.17.20032601-MSVC_2/CMakeRCCompiler.cmake
+/out/build/x64-Debug (默认值)/CMakeFiles/3.17.20032601-MSVC_2/CMakeDetermineCompilerABI_CXX.bin
+/out/build/x64-Debug (默认值)/CMakeFiles/3.17.20032601-MSVC_2/CMakeDetermineCompilerABI_C.bin
+/out/build/x64-Debug (默认值)/CMakeFiles/3.17.20032601-MSVC_2/CMakeCXXCompiler.cmake
+/out/build/x64-Debug (默认值)/CMakeFiles/3.17.20032601-MSVC_2/CMakeCCompiler.cmake
+/out/build/x64-Debug (默认值)/CMakeCache.txt
+/out/build/x64-Debug (默认值)/build.ninja
+/out/build/x64-Debug (默认值)/.ninja_log
+/out/build/x64-Debug (默认值)/.ninja_deps
+/out/build/x64-Debug (默认值)/.cmake/api/v1/reply/target-SalesItem-Debug-387d5aedc4d4221011d4.json
+/out/build/x64-Debug (默认值)/.cmake/api/v1/reply/index-2020-06-06T10-28-00-0518.json
+/out/build/x64-Debug (默认值)/.cmake/api/v1/reply/codemodel-v2-f5e65a87536660fc20cd.json
+/out/build/x64-Debug (默认值)/.cmake/api/v1/reply/cmakeFiles-v1-ca9b7d253b64a694a7c9.json
+/out/build/x64-Debug (默认值)/.cmake/api/v1/reply/cache-v2-343f477f7b00002521ac.json
+/out/build/x64-Debug (默认值)/.cmake/api/v1/query/client-MicrosoftVS/query.json
+=======
+>>>>>>> a2b8800... 练习1.25 SalesItem
