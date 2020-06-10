@@ -7,5 +7,4 @@
 
 #define PROJECT_SOURCE_DIR "D:/Todo/CppPrimer"
 
-
 // TODO: 在此处引用程序需要的其他标头。
