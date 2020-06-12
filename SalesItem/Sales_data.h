@@ -7,13 +7,18 @@
 using namespace std;
 struct Sales_data
 {
+friend istream& read(istream&, Sales_data&);
+friend ostream& print(ostream&, const Sales_data&);
+public:
+	Sales_data() = default;
+	std::string isbn() const { return bookNo; }
+	Sales_data& combine(const Sales_data&);
+private:
+	double avg_price() const;
 	std::string bookNo;
 	unsigned units_sold = 0;
 	double revenue = 0.0;
 
-	std::string isbn() const { return bookNo; }
-	Sales_data& combine(const Sales_data&);
-	double avg_price() const;	
 };
 
 double Sales_data::avg_price() const
